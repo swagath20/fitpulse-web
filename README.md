@@ -5,10 +5,13 @@ A full-stack gym management platform featuring role-based access control, an int
 ## 🎬 Demo Walkthroughs
 
 ### 👤 Member Portal
-https://github.com/swagath20/fitpulse-web/raw/main/demo.mp4
+## Demo Preview
+![FitPulse Demo](./demo.gif)
 
 ### 🛠️ Owner Operations Console
-https://github.com/swagath20/fitpulse-web/raw/main/demoowner.mp4
+## Demo Preview
+
+![FitPulse Demo](./demoowner.gif)
 
 ---
 
