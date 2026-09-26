@@ -186,8 +186,7 @@ Role-Based Access Control (RBAC) is enforced at the database layer via Firestore
 
 ## 👤 Author
 
-[Your Name] — built as a self-directed learning project.
-[LinkedIn] · [Portfolio] · [Email]
+Swagath BL — built as a self-directed learning project
 
 ---
 
